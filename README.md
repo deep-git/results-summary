@@ -1,8 +1,9 @@
-# React + Vite
+# Results Summary Component
+This project is a Frontend Mentor challenge project that utilizes HTML and CSS to create a results summary component, which consists of an overall score out of 100, a description of the score, and an overall summary of each of the various sections.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## View Site
+Link: https://deep-git.github.io/faq-accordion/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Utilized
+- HTML
+- CSS
